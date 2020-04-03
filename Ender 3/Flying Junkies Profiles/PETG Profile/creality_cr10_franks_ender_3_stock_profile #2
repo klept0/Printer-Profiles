@@ -1,0 +1,20 @@
+[general]
+version = 4
+name = Franks Ender 3 PETG Profile
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+setting_version = 4
+type = quality_changes
+
+[values]
+adaptive_layer_height_enabled = True
+adhesion_type = skirt
+layer_height = 0.1
+layer_height_0 = 0.2
+material_bed_temperature = 65
+print_sequence = all_at_once
+retraction_combing = noskin
+support_type = buildplate
+

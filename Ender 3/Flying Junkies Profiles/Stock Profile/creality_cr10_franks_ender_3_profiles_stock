@@ -1,0 +1,14 @@
+[general]
+version = 4
+name = Franks Ender 3 Profiles Stock
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+setting_version = 4
+type = quality_changes
+
+[values]
+adhesion_type = skirt
+support_type = buildplate
+

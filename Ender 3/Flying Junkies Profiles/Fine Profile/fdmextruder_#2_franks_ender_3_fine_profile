@@ -1,0 +1,21 @@
+[general]
+version = 4
+name = Franks Ender 3 Fine Profile
+definition = fdmprinter
+
+[metadata]
+type = quality_changes
+quality_type = draft
+position = 0
+setting_version = 4
+
+[values]
+brim_line_count = 5
+infill_pattern = tetrahedral
+infill_sparse_density = 100
+material_print_temperature = 195
+skirt_line_count = 2
+speed_print = 55
+support_pattern = lines
+wall_thickness = 1.2
+

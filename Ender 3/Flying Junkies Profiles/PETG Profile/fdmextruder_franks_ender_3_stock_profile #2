@@ -1,0 +1,30 @@
+[general]
+version = 4
+name = Franks Ender 3 PETG Profile
+definition = fdmprinter
+
+[metadata]
+position = 0
+type = quality_changes
+quality_type = draft
+setting_version = 4
+
+[values]
+bottom_layers = 6
+coasting_enable = True
+default_material_print_temperature = 235
+infill_pattern = lines
+infill_sparse_density = 75
+material_flow = 99
+material_print_temperature = 240
+optimize_wall_printing_order = True
+retract_at_layer_change = False
+skirt_gap = 4
+skirt_line_count = 2
+speed_print = 45
+support_pattern = lines
+top_bottom_pattern = zigzag
+top_bottom_thickness = 0.6
+top_layers = 6
+wall_thickness = 1.2
+

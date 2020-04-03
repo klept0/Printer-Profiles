@@ -1,0 +1,1 @@
+{PrusaSlicer Settings for Ender 3 Updated 24thDEC2019 %!s(bool=true)} by {3bacak %!s(bool=true)} on Thingiverse: https://www.thingiverse.com/thing:3952425

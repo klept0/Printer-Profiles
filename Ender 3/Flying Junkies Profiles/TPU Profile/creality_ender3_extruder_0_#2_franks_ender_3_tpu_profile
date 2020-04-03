@@ -1,0 +1,27 @@
+[general]
+version = 4
+name = Franks Ender 3 TPU Profile
+definition = fdmprinter
+
+[metadata]
+setting_version = 5
+position = 0
+quality_type = draft
+type = quality_changes
+
+[values]
+acceleration_print = 250
+coasting_enable = True
+infill_pattern = zigzag
+infill_sparse_density = 13
+material_print_temperature = 225
+optimize_wall_printing_order = True
+skirt_line_count = 1
+speed_equalize_flow_enabled = True
+speed_print = 25
+support_infill_rate = 3
+support_tree_branch_distance = 4
+travel_avoid_supports = True
+wall_thickness = 1.2
+zig_zaggify_infill = True
+

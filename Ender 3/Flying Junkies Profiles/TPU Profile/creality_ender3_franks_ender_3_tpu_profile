@@ -1,0 +1,14 @@
+[general]
+version = 4
+name = Franks Ender 3 TPU Profile
+definition = fdmprinter
+
+[metadata]
+setting_version = 5
+quality_type = draft
+type = quality_changes
+
+[values]
+adhesion_type = none
+support_type = buildplate
+

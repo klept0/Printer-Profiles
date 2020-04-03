@@ -1,0 +1,19 @@
+[general]
+version = 4
+name = Franks Ender 3 Profiles Stock
+definition = fdmprinter
+
+[metadata]
+quality_type = draft
+position = 0
+setting_version = 4
+type = quality_changes
+
+[values]
+infill_pattern = cross
+infill_sparse_density = 100
+material_print_temperature = 195
+skirt_line_count = 2
+top_bottom_thickness = 1.2
+wall_thickness = 1.2
+
